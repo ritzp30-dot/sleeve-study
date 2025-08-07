@@ -1,4 +1,4 @@
-This contains the algorithm to measure the water consumption in  the Arduino logger scale
+This contains the algorithm to measure the water consumption in the Arduino logger scale
 
 
 /**
@@ -108,6 +108,7 @@ scale.power_up();
   //digitalWrite(LED_BUILTIN, HIGH); // Show we're awake again
 
 }
+
 
 
 
