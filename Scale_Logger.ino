@@ -1,3 +1,6 @@
+This contains the algorithm to measure the water consumption in  the Arduno logger scale
+
+
 /**
  *
  * Scale Logger 
@@ -105,5 +108,6 @@ scale.power_up();
   //digitalWrite(LED_BUILTIN, HIGH); // Show we're awake again
 
 }
+
 
 
