@@ -1,0 +1,320 @@
+,DogID,Scent,Day,WeightKg,DailyWC,WCG,Age,Breed,Sex
+1,Annaki,Beef,1,13.63636364,14.39,1.055266667,3,Jack Russell Terrier,M
+2,Annaki,Beef,2,13.63636364,519.71,38.11206667,3,Jack Russell Terrier,M
+3,Annaki,Beef,3,13.63636364,370.71,27.1854,3,Jack Russell Terrier,M
+4,Annaki,Beef,4,13.63636364,2.66,0.195066667,3,Jack Russell Terrier,M
+5,Annaki,Chicken,1,13.63636364,430.88,31.59786667,3,Jack Russell Terrier,M
+6,Annaki,Chicken,2,13.63636364,210.35,15.42566667,3,Jack Russell Terrier,M
+7,Annaki,Chicken,3,13.63636364,248.88,18.2512,3,Jack Russell Terrier,M
+8,Annaki,Chicken,4,13.63636364,0,0,3,Jack Russell Terrier,M
+9,Annaki,Non-scented,1,13.63636364,0,0,3,Jack Russell Terrier,M
+10,Annaki,Non-scented,2,13.63636364,0,0,3,Jack Russell Terrier,M
+11,Annaki,Non-scented,3,13.63636364,0,0,3,Jack Russell Terrier,M
+12,Annaki,Non-scented,4,13.63636364,5.38,0.394533333,3,Jack Russell Terrier,M
+13,Annaki,Peanut,1,13.63636364,13.29,0.9746,3,Jack Russell Terrier,M
+14,Annaki,Peanut,2,13.63636364,121.23,8.8902,3,Jack Russell Terrier,M
+15,Annaki,Peanut,3,13.63636364,0,0,3,Jack Russell Terrier,M
+16,Annaki,Peanut,4,13.63636364,339.41,24.89006667,3,Jack Russell Terrier,M
+17,Autumn,Beef,1,19.54545455,16.85,0.862093023,3,Mixed,F
+18,Autumn,Beef,2,19.54545455,0,0,3,Mixed,F
+19,Autumn,Beef,3,19.54545455,235.57,12.0524186,3,Mixed,F
+20,Autumn,Beef,4,19.54545455,229.64,11.74902326,3,Mixed,F
+21,Autumn,Chicken,1,19.54545455,317.03,16.22013953,3,Mixed,F
+22,Autumn,Chicken,2,19.54545455,113.47,5.80544186,3,Mixed,F
+23,Autumn,Chicken,3,19.54545455,0,0,3,Mixed,F
+24,Autumn,Chicken,4,19.54545455,0,0,3,Mixed,F
+25,Autumn,Non-scented,1,19.54545455,11.21,0.573534884,3,Mixed,F
+26,Autumn,Non-scented,2,19.54545455,360.09,18.4232093,3,Mixed,F
+27,Autumn,Non-scented,3,19.54545455,15.18,0.776651163,3,Mixed,F
+28,Autumn,Non-scented,4,19.54545455,0,0,3,Mixed,F
+29,Autumn,Peanut,1,19.54545455,37.53,1.920139535,3,Mixed,F
+30,Autumn,Peanut,2,19.54545455,0,0,3,Mixed,F
+31,Autumn,Peanut,3,19.54545455,0,0,3,Mixed,F
+32,Autumn,Peanut,4,19.54545455,0,0,3,Mixed,F
+33,Beefy,Beef,1,19.09090909,170.09,8.90947619,9,Bull dog,F
+34,Beefy,Beef,2,19.09090909,0,0,9,Bull dog,F
+35,Beefy,Beef,3,19.09090909,0,0,9,Bull dog,F
+36,Beefy,Beef,4,19.09090909,0,0,9,Bull dog,F
+37,Beefy,Chicken,1,19.09090909,0,0,9,Bull dog,F
+38,Beefy,Chicken,2,19.09090909,109.05,5.712142857,9,Bull dog,F
+39,Beefy,Chicken,3,19.09090909,0,0,9,Bull dog,F
+40,Beefy,Chicken,4,19.09090909,5.75,0.301190476,9,Bull dog,F
+41,Beefy,Non-scented,1,19.09090909,0,0,9,Bull dog,F
+42,Beefy,Non-scented,2,19.09090909,0,0,9,Bull dog,F
+43,Beefy,Non-scented,3,19.09090909,0,0,9,Bull dog,F
+44,Beefy,Non-scented,4,19.09090909,0,0,9,Bull dog,F
+45,Beefy,Peanut,1,19.09090909,0,0,9,Bull dog,F
+46,Beefy,Peanut,2,19.09090909,0,0,9,Bull dog,F
+47,Beefy,Peanut,3,19.09090909,2.92,0.152952381,9,Bull dog,F
+48,Beefy,Peanut,4,19.09090909,0,0,9,Bull dog,F
+49,Billi,Beef,1,9.090909091,31.52,3.4672,5,Poodle miniature,M
+50,Billi,Beef,2,9.090909091,0,0,5,Poodle miniature,M
+51,Billi,Beef,3,9.090909091,53.37,5.8707,5,Poodle miniature,M
+52,Billi,Beef,4,9.090909091,16.41,1.8051,5,Poodle miniature,M
+53,Billi,Chicken,1,9.090909091,57.89,6.3679,5,Poodle miniature,M
+54,Billi,Chicken,2,9.090909091,6.15,0.6765,5,Poodle miniature,M
+55,Billi,Chicken,3,9.090909091,3.43,0.3773,5,Poodle miniature,M
+56,Billi,Chicken,4,9.090909091,91.41,10.0551,5,Poodle miniature,M
+57,Billi,Non-scented,1,9.090909091,4.13,0.4543,5,Poodle miniature,M
+58,Billi,Non-scented,2,9.090909091,26.89,2.9579,5,Poodle miniature,M
+59,Billi,Non-scented,3,9.090909091,54.51,5.9961,5,Poodle miniature,M
+60,Billi,Non-scented,4,9.090909091,61.55,6.7705,5,Poodle miniature,M
+61,Billi,Peanut,1,9.090909091,3.24,0.3564,5,Poodle miniature,M
+62,Billi,Peanut,2,9.090909091,0,0,5,Poodle miniature,M
+63,Billi,Peanut,3,9.090909091,4.69,0.5159,5,Poodle miniature,M
+64,Billi,Peanut,4,9.090909091,44.57,4.9027,5,Poodle miniature,M
+65,Bluffy,Beef,1,16.36363636,0,0,14,Mixed,F
+66,Bluffy,Beef,2,16.36363636,101.35,6.193611111,14,Mixed,F
+67,Bluffy,Beef,3,16.36363636,0,0,14,Mixed,F
+68,Bluffy,Beef,4,16.36363636,0,0,14,Mixed,F
+69,Bluffy,Chicken,1,16.36363636,143.46,8.767,14,Mixed,F
+70,Bluffy,Chicken,2,16.36363636,326.49,19.95216667,14,Mixed,F
+71,Bluffy,Chicken,3,16.36363636,357.62,21.85455556,14,Mixed,F
+72,Bluffy,Chicken,4,16.36363636,55.1,3.367222222,14,Mixed,F
+73,Bluffy,Non-scented,1,16.36363636,186.65,11.40638889,14,Mixed,F
+74,Bluffy,Non-scented,2,16.36363636,3.33,0.2035,14,Mixed,F
+75,Bluffy,Non-scented,3,16.36363636,107.8,6.587777778,14,Mixed,F
+76,Bluffy,Non-scented,4,16.36363636,0,0,14,Mixed,F
+77,Bluffy,Peanut,1,16.36363636,46.06,2.814777778,14,Mixed,F
+78,Bluffy,Peanut,2,16.36363636,64.18,3.922111111,14,Mixed,F
+79,Bluffy,Peanut,3,16.36363636,24.22,1.480111111,14,Mixed,F
+80,Bluffy,Peanut,4,16.36363636,369.56,22.58422222,14,Mixed,F
+81,Captain,Beef,1,6.818181818,0,0,14,Mixed,M
+82,Captain,Beef,2,6.818181818,83.58,12.2584,14,Mixed,M
+83,Captain,Beef,3,6.818181818,0,0,14,Mixed,M
+84,Captain,Beef,4,6.818181818,40.59,5.9532,14,Mixed,M
+85,Captain,Chicken,1,6.818181818,56.08,8.225066667,14,Mixed,M
+86,Captain,Chicken,2,6.818181818,198.47,29.10893333,14,Mixed,M
+87,Captain,Chicken,3,6.818181818,96.98,14.22373333,14,Mixed,M
+88,Captain,Chicken,4,6.818181818,2.15,0.315333333,14,Mixed,M
+89,Captain,Non-scented,1,6.818181818,66.97,9.822266667,14,Mixed,M
+90,Captain,Non-scented,2,6.818181818,0,0,14,Mixed,M
+91,Captain,Non-scented,3,6.818181818,2.99,0.438533333,14,Mixed,M
+92,Captain,Non-scented,4,6.818181818,0,0,14,Mixed,M
+93,Captain,Peanut,1,6.818181818,0,0,14,Mixed,M
+94,Captain,Peanut,2,6.818181818,2.26,0.331466667,14,Mixed,M
+95,Captain,Peanut,3,6.818181818,90.81,13.3188,14,Mixed,M
+96,Captain,Peanut,4,6.818181818,136.76,20.05813333,14,Mixed,M
+97,Cebi,Beef,1,20,86.33,4.3165,3,Mixed,F
+98,Cebi,Beef,2,20,7.45,0.3725,3,Mixed,F
+99,Cebi,Beef,3,20,118.69,5.9345,3,Mixed,F
+100,Cebi,Beef,4,20,79.38,3.969,3,Mixed,F
+101,Cebi,Chicken,1,20,368.95,18.4475,3,Mixed,F
+102,Cebi,Chicken,2,20,149.3,7.465,3,Mixed,F
+103,Cebi,Chicken,3,20,47.56,2.378,3,Mixed,F
+104,Cebi,Chicken,4,20,0,0,3,Mixed,F
+105,Cebi,Non-scented,1,20,101.67,5.0835,3,Mixed,F
+106,Cebi,Non-scented,2,20,54.17,2.7085,3,Mixed,F
+107,Cebi,Non-scented,3,20,162.6,8.13,3,Mixed,F
+108,Cebi,Non-scented,4,20,0,0,3,Mixed,F
+109,Cebi,Peanut,1,20,186.6,9.33,3,Mixed,F
+110,Cebi,Peanut,2,20,278.16,13.908,3,Mixed,F
+111,Cebi,Peanut,3,20,45.74,2.287,3,Mixed,F
+112,Cebi,Peanut,4,20,215.38,10.769,3,Mixed,F
+113,Daisy,Beef,1,26.36363636,0,0,3,Retriever,F
+114,Daisy,Beef,2,26.36363636,0,0,3,Retriever,F
+115,Daisy,Beef,3,26.36363636,252.5,9.577586207,3,Retriever,F
+116,Daisy,Beef,4,26.36363636,368.01,13.959,3,Retriever,F
+117,Daisy,Chicken,1,26.36363636,0,0,3,Retriever,F
+118,Daisy,Chicken,2,26.36363636,0,0,3,Retriever,F
+119,Daisy,Chicken,3,26.36363636,0,0,3,Retriever,F
+120,Daisy,Chicken,4,26.36363636,0,0,3,Retriever,F
+121,Daisy,Non-scented,1,26.36363636,178.35,6.765,3,Retriever,F
+122,Daisy,Non-scented,2,26.36363636,0,0,3,Retriever,F
+123,Daisy,Non-scented,3,26.36363636,317.87,12.05713793,3,Retriever,F
+124,Daisy,Non-scented,4,26.36363636,0,0,3,Retriever,F
+125,Daisy,Peanut,1,26.36363636,0,0,3,Retriever,F
+126,Daisy,Peanut,2,26.36363636,0,0,3,Retriever,F
+127,Daisy,Peanut,3,26.36363636,3.07,0.116448276,3,Retriever,F
+128,Daisy,Peanut,4,26.36363636,0,0,3,Retriever,F
+129,Ellie,Beef,1,19.09090909,0,0,6,Bull dog,F
+130,Ellie,Beef,2,19.09090909,0,0,6,Bull dog,F
+131,Ellie,Beef,3,19.09090909,0,0,6,Bull dog,F
+132,Ellie,Beef,4,19.09090909,0,0,6,Bull dog,F
+133,Ellie,Chicken,1,19.09090909,19.72,1.032952381,6,Bull dog,F
+134,Ellie,Chicken,2,19.09090909,0,0,6,Bull dog,F
+135,Ellie,Chicken,3,19.09090909,14.07,0.737,6,Bull dog,F
+136,Ellie,Chicken,4,19.09090909,0,0,6,Bull dog,F
+137,Ellie,Non-scented,1,19.09090909,23.17,1.213666667,6,Bull dog,F
+138,Ellie,Non-scented,2,19.09090909,0,0,6,Bull dog,F
+139,Ellie,Non-scented,3,19.09090909,363.12,19.02057143,6,Bull dog,F
+140,Ellie,Non-scented,4,19.09090909,0,0,6,Bull dog,F
+141,Ellie,Peanut,1,19.09090909,0,0,6,Bull dog,F
+142,Ellie,Peanut,2,19.09090909,135.7,7.108095238,6,Bull dog,F
+143,Ellie,Peanut,3,19.09090909,0,0,6,Bull dog,F
+144,Ellie,Peanut,4,19.09090909,0,0,6,Bull dog,F
+145,Finn,Beef,1,8.181818182,58.83,7.190333333,4,Mixed,M
+146,Finn,Beef,2,8.181818182,22.23,2.717,4,Mixed,M
+147,Finn,Beef,3,8.181818182,22.95,2.805,4,Mixed,M
+148,Finn,Beef,4,8.181818182,0,0,4,Mixed,M
+149,Finn,Chicken,1,8.181818182,0,0,4,Mixed,M
+150,Finn,Chicken,2,8.181818182,29.38,3.590888889,4,Mixed,M
+151,Finn,Chicken,3,8.181818182,0,0,4,Mixed,M
+152,Finn,Chicken,4,8.181818182,0,0,4,Mixed,M
+153,Finn,Non-scented,1,8.181818182,0,0,4,Mixed,M
+154,Finn,Non-scented,2,8.181818182,87.68,10.71644444,4,Mixed,M
+155,Finn,Non-scented,3,8.181818182,33.31,4.071222222,4,Mixed,M
+156,Finn,Non-scented,4,8.181818182,203.05,24.81722222,4,Mixed,M
+157,Finn,Peanut,1,8.181818182,0,0,4,Mixed,M
+158,Finn,Peanut,2,8.181818182,25.27,3.088555556,4,Mixed,M
+159,Finn,Peanut,3,8.181818182,50.08,6.120888889,4,Mixed,M
+160,Finn,Peanut,4,8.181818182,0,0,4,Mixed,M
+161,Milia,Beef,1,22.72727273,123.67,5.44148,2,Border Collie,F
+162,Milia,Beef,2,22.72727273,303.38,13.34872,2,Border Collie,F
+163,Milia,Beef,3,22.72727273,146.11,6.42884,2,Border Collie,F
+164,Milia,Beef,4,22.72727273,89.68,3.94592,2,Border Collie,F
+165,Milia,Chicken,1,22.72727273,238.13,10.47772,2,Border Collie,F
+166,Milia,Chicken,2,22.72727273,150,6.6,2,Border Collie,F
+167,Milia,Chicken,3,22.72727273,27.69,1.21836,2,Border Collie,F
+168,Milia,Chicken,4,22.72727273,27.24,1.19856,2,Border Collie,F
+169,Milia,Non-scented,1,22.72727273,0,0,2,Border Collie,F
+170,Milia,Non-scented,2,22.72727273,150.93,6.64092,2,Border Collie,F
+171,Milia,Non-scented,3,22.72727273,62.2,2.7368,2,Border Collie,F
+172,Milia,Non-scented,4,22.72727273,86.62,3.81128,2,Border Collie,F
+173,Milia,Peanut,1,22.72727273,114.1,5.0204,2,Border Collie,F
+174,Milia,Peanut,2,22.72727273,36.2,1.5928,2,Border Collie,F
+175,Milia,Peanut,3,22.72727273,188.91,8.31204,2,Border Collie,F
+176,Milia,Peanut,4,22.72727273,121.64,5.35216,2,Border Collie,F
+177,Milie,Beef,1,5,52.32,10.464,2,Chihuahua,F
+178,Milie,Beef,2,5,9.9,1.98,2,Chihuahua,F
+179,Milie,Beef,3,5,44.01,8.802,2,Chihuahua,F
+180,Milie,Beef,4,5,42.67,8.534,2,Chihuahua,F
+181,Milie,Chicken,1,5,18.78,3.756,2,Chihuahua,F
+182,Milie,Chicken,2,5,160.66,32.132,2,Chihuahua,F
+183,Milie,Chicken,3,5,102.45,20.49,2,Chihuahua,F
+184,Milie,Chicken,4,5,172.47,34.494,2,Chihuahua,F
+185,Milie,Non-scented,1,5,27.88,5.576,2,Chihuahua,F
+186,Milie,Non-scented,2,5,100.7,20.14,2,Chihuahua,F
+187,Milie,Non-scented,3,5,19.48,3.896,2,Chihuahua,F
+188,Milie,Non-scented,4,5,101.27,20.254,2,Chihuahua,F
+189,Milie,Peanut,1,5,25.35,5.07,2,Chihuahua,F
+190,Milie,Peanut,2,5,50.06,10.012,2,Chihuahua,F
+191,Milie,Peanut,3,5,297.82,59.564,2,Chihuahua,F
+192,Milie,Peanut,4,5,3.98,0.796,2,Chihuahua,F
+193,Moose,Beef,1,11.81818182,82.14,6.950307692,1,Corgi,M
+194,Moose,Beef,2,11.81818182,73.47,6.216692308,1,Corgi,M
+195,Moose,Beef,3,11.81818182,413.22,34.96476923,1,Corgi,M
+196,Moose,Beef,4,11.81818182,349.29,29.55530769,1,Corgi,M
+197,Moose,Chicken,1,11.81818182,46.32,3.919384615,1,Corgi,M
+198,Moose,Chicken,2,11.81818182,73.31,6.203153846,1,Corgi,M
+199,Moose,Chicken,3,11.81818182,4.15,0.351153846,1,Corgi,M
+200,Moose,Chicken,4,11.81818182,311.4,26.34923077,1,Corgi,M
+201,Moose,Non-scented,1,11.81818182,57.29,4.847615385,1,Corgi,M
+202,Moose,Non-scented,2,11.81818182,319.46,27.03123077,1,Corgi,M
+203,Moose,Non-scented,3,11.81818182,67.39,5.702230769,1,Corgi,M
+204,Moose,Non-scented,4,11.81818182,73.51,6.220076923,1,Corgi,M
+205,Moose,Peanut,1,11.81818182,82.12,6.948615385,1,Corgi,M
+206,Moose,Peanut,2,11.81818182,32.65,2.762692308,1,Corgi,M
+207,Moose,Peanut,3,11.81818182,68.89,5.829153846,1,Corgi,M
+208,Moose,Peanut,4,11.81818182,225.32,19.06553846,1,Corgi,M
+209,Morita,Beef,1,34.09090909,372.46,10.92549333,8,Old English Sheepdog,F
+210,Morita,Beef,2,34.09090909,426.96,12.52416,8,Old English Sheepdog,F
+211,Morita,Beef,3,34.09090909,68.97,2.02312,8,Old English Sheepdog,F
+212,Morita,Beef,4,34.09090909,1322.6,38.79626667,8,Old English Sheepdog,F
+213,Morita,Chicken,1,34.09090909,145.77,4.27592,8,Old English Sheepdog,F
+214,Morita,Chicken,2,34.09090909,546.32,16.02538667,8,Old English Sheepdog,F
+215,Morita,Chicken,3,34.09090909,349.57,10.25405333,8,Old English Sheepdog,F
+216,Morita,Chicken,4,34.09090909,383.52,11.24992,8,Old English Sheepdog,F
+217,Morita,Non-scented,1,34.09090909,468.88,13.75381333,8,Old English Sheepdog,F
+218,Morita,Non-scented,2,34.09090909,392.85,11.5236,8,Old English Sheepdog,F
+219,Morita,Non-scented,3,34.09090909,105.75,3.102,8,Old English Sheepdog,F
+220,Morita,Non-scented,4,34.09090909,86.76,2.54496,8,Old English Sheepdog,F
+221,Morita,Peanut,1,34.09090909,222.01,6.512293333,8,Old English Sheepdog,F
+222,Morita,Peanut,2,34.09090909,381,11.176,8,Old English Sheepdog,F
+223,Morita,Peanut,3,34.09090909,425.49,12.48104,8,Old English Sheepdog,F
+224,Morita,Peanut,4,34.09090909,0,0,8,Old English Sheepdog,F
+225,Oliver,Beef,1,20.45454545,10.31,0.504044444,4,Doodle,M
+226,Oliver,Beef,2,20.45454545,133.33,6.518355556,4,Doodle,M
+227,Oliver,Beef,3,20.45454545,280.48,13.71235556,4,Doodle,M
+228,Oliver,Chicken,1,20.45454545,0,0,4,Doodle,M
+229,Oliver,Chicken,2,20.45454545,388.88,19.01191111,4,Doodle,M
+230,Oliver,Chicken,3,20.45454545,577.45,28.23088889,4,Doodle,M
+231,Oliver,Chicken,4,20.45454545,191.91,9.382266667,4,Doodle,M
+232,Oliver,Non-scented,1,20.45454545,12.72,0.621866667,4,Doodle,M
+233,Oliver,Non-scented,2,20.45454545,19.77,0.966533333,4,Doodle,M
+234,Oliver,Non-scented,3,20.45454545,199.35,9.746,4,Doodle,M
+235,Oliver,Non-scented,4,20.45454545,14.56,0.711822222,4,Doodle,M
+236,Oliver,Peanut,1,20.45454545,39.58,1.935022222,4,Doodle,M
+237,Oliver,Peanut,2,20.45454545,26.13,1.277466667,4,Doodle,M
+238,Oliver,Peanut,3,20.45454545,32.82,1.604533333,4,Doodle,M
+239,Oliver,Peanut,4,20.45454545,157.7,7.709777778,4,Doodle,M
+240,Stitch,Beef,1,12.72727273,421.08,33.08485714,4,French Bull dog,M
+241,Stitch,Beef,2,12.72727273,23.34,1.833857143,4,French Bull dog,M
+242,Stitch,Beef,3,12.72727273,142.92,11.22942857,4,French Bull dog,M
+243,Stitch,Beef,4,12.72727273,53.6,4.211428571,4,French Bull dog,M
+244,Stitch,Chicken,1,12.72727273,421.08,33.08485714,4,French Bull dog,M
+245,Stitch,Chicken,2,12.72727273,23.34,1.833857143,4,French Bull dog,M
+246,Stitch,Chicken,3,12.72727273,121.13,9.517357143,4,French Bull dog,M
+247,Stitch,Chicken,4,12.72727273,75.39,5.9235,4,French Bull dog,M
+248,Stitch,Non-scented,1,12.72727273,52.47,4.122642857,4,French Bull dog,M
+249,Stitch,Non-scented,2,12.72727273,544.52,42.78371429,4,French Bull dog,M
+250,Stitch,Non-scented,3,12.72727273,180.8,14.20571429,4,French Bull dog,M
+251,Stitch,Non-scented,4,12.72727273,162.74,12.78671429,4,French Bull dog,M
+252,Stitch,Peanut,1,12.72727273,432.01,33.94364286,4,French Bull dog,M
+253,Stitch,Peanut,2,12.72727273,23.34,1.833857143,4,French Bull dog,M
+254,Stitch,Peanut,3,12.72727273,142.92,11.22942857,4,French Bull dog,M
+255,Stitch,Peanut,4,12.72727273,73.18,5.749857143,4,French Bull dog,M
+256,Tally,Beef,1,8.181818182,21.92,2.679111111,8,Poodle miniature,F
+257,Tally,Beef,2,8.181818182,68.82,8.411333333,8,Poodle miniature,F
+258,Tally,Beef,3,8.181818182,60.16,7.352888889,8,Poodle miniature,F
+259,Tally,Beef,4,8.181818182,64.89,7.931,8,Poodle miniature,F
+260,Tally,Chicken,1,8.181818182,274.8,33.58666667,8,Poodle miniature,F
+261,Tally,Chicken,2,8.181818182,98.02,11.98022222,8,Poodle miniature,F
+262,Tally,Chicken,3,8.181818182,66.68,8.149777778,8,Poodle miniature,F
+263,Tally,Chicken,4,8.181818182,5.22,0.638,8,Poodle miniature,F
+264,Tally,Non-scented,1,8.181818182,52.83,6.457,8,Poodle miniature,F
+265,Tally,Non-scented,2,8.181818182,70.94,8.670444444,8,Poodle miniature,F
+266,Tally,Non-scented,3,8.181818182,237.41,29.01677778,8,Poodle miniature,F
+267,Tally,Non-scented,4,8.181818182,62.06,7.585111111,8,Poodle miniature,F
+268,Tally,Peanut,1,8.181818182,274.8,33.58666667,8,Poodle miniature,F
+269,Tally,Peanut,2,8.181818182,98.02,11.98022222,8,Poodle miniature,F
+270,Tally,Peanut,3,8.181818182,66.68,8.149777778,8,Poodle miniature,F
+271,Tally,Peanut,4,8.181818182,5.22,0.638,8,Poodle miniature,F
+272,Tucker,Beef,1,27.27272727,80.06,2.935533333,5,Mixed,M
+273,Tucker,Beef,2,27.27272727,57.05,2.091833333,5,Mixed,M
+274,Tucker,Beef,3,27.27272727,330.63,12.1231,5,Mixed,M
+275,Tucker,Beef,4,27.27272727,366.74,13.44713333,5,Mixed,M
+276,Tucker,Chicken,1,27.27272727,552.8,20.26933333,5,Mixed,M
+277,Tucker,Chicken,2,27.27272727,224.94,8.2478,5,Mixed,M
+278,Tucker,Chicken,3,27.27272727,238.03,8.727766667,5,Mixed,M
+279,Tucker,Chicken,4,27.27272727,147.64,5.413466667,5,Mixed,M
+280,Tucker,Non-scented,1,27.27272727,155.41,5.698366667,5,Mixed,M
+281,Tucker,Non-scented,2,27.27272727,394.68,14.4716,5,Mixed,M
+282,Tucker,Non-scented,3,27.27272727,29.44,1.079466667,5,Mixed,M
+283,Tucker,Non-scented,4,27.27272727,65.8,2.412666667,5,Mixed,M
+284,Tucker,Peanut,1,27.27272727,0,0,5,Mixed,M
+285,Tucker,Peanut,2,27.27272727,264.3,9.691,5,Mixed,M
+286,Tucker,Peanut,3,27.27272727,336.29,12.33063333,5,Mixed,M
+287,Tucker,Peanut,4,27.27272727,439.58,16.11793333,5,Mixed,M
+288,Whiskey,Beef,1,30.90909091,271.03,8.768617647,6,Mixed,F
+289,Whiskey,Beef,2,30.90909091,7.05,0.228088235,6,Mixed,F
+290,Whiskey,Beef,3,30.90909091,126.13,4.080676471,6,Mixed,F
+291,Whiskey,Beef,4,30.90909091,0,0,6,Mixed,F
+292,Whiskey,Chicken,1,30.90909091,297.34,9.619823529,6,Mixed,F
+293,Whiskey,Chicken,2,30.90909091,0,0,6,Mixed,F
+294,Whiskey,Chicken,3,30.90909091,32.39,1.047911765,6,Mixed,F
+295,Whiskey,Chicken,4,30.90909091,295.44,9.558352941,6,Mixed,F
+296,Whiskey,Non-scented,1,30.90909091,56.37,1.823735294,6,Mixed,F
+297,Whiskey,Non-scented,2,30.90909091,261.5,8.460294118,6,Mixed,F
+298,Whiskey,Non-scented,3,30.90909091,53.99,1.746735294,6,Mixed,F
+299,Whiskey,Non-scented,4,30.90909091,0,0,6,Mixed,F
+300,Whiskey,Peanut,1,30.90909091,37.72,1.220352941,6,Mixed,F
+301,Whiskey,Peanut,2,30.90909091,112.69,3.645852941,6,Mixed,F
+302,Whiskey,Peanut,3,30.90909091,130.11,4.209441176,6,Mixed,F
+303,Whiskey,Peanut,4,30.90909091,115.83,3.747441176,6,Mixed,F
+304,Willow,Beef,1,22.72727273,0,0,4,Australian cattle dog,F
+305,Willow,Beef,2,22.72727273,79.8,3.5112,4,Australian cattle dog,F
+306,Willow,Beef,3,22.72727273,261.84,11.52096,4,Australian cattle dog,F
+307,Willow,Beef,4,22.72727273,309.9,13.6356,4,Australian cattle dog,F
+308,Willow,Chicken,1,22.72727273,726.05,31.9462,4,Australian cattle dog,F
+309,Willow,Chicken,2,22.72727273,482.65,21.2366,4,Australian cattle dog,F
+310,Willow,Chicken,3,22.72727273,11.01,0.48444,4,Australian cattle dog,F
+311,Willow,Chicken,4,22.72727273,2.98,0.13112,4,Australian cattle dog,F
+312,Willow,Non-scented,1,22.72727273,91.51,4.02644,4,Australian cattle dog,F
+313,Willow,Non-scented,2,22.72727273,15.07,0.66308,4,Australian cattle dog,F
+314,Willow,Non-scented,3,22.72727273,3.36,0.14784,4,Australian cattle dog,F
+315,Willow,Non-scented,4,22.72727273,257.65,11.3366,4,Australian cattle dog,F
+316,Willow,Peanut,1,22.72727273,0,0,4,Australian cattle dog,F
+317,Willow,Peanut,2,22.72727273,432.91,19.04804,4,Australian cattle dog,F
+318,Willow,Peanut,3,22.72727273,11.1,0.4884,4,Australian cattle dog,F
+319,Willow,Peanut,4,22.72727273,311.86,13.72184,4,Australian cattle dog,F
