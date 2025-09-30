@@ -1,1 +1,30 @@
-This file contains the algorithm used to calculate the water consumption in dogs.
+#This file contains the algorithm used to calculate the water consumption in dogs.
+
+
+
+water_consumption <- function(t,w) {
+  inputData=data.frame(t,w)
+  time=c()
+  water_consumed=c()
+  inputData$w2=movavg(w, n=5, type="s")
+  
+  inputData$flag<-ifelse(abs(inputData$w-inputData$w2)>5, 1, 0)
+  inputData<-inputData %>% filter(flag==0)
+  index=1
+  print(inputData)
+  
+  for (i in seq(1,length(inputData$w)-1)){
+    weightChange=inputData$w[i]-inputData$w[i+1]
+    weightChange2=inputData$w[i+2]
+    
+    if (weightChange>1){
+      water_consumed[index]=weightChange
+      time[index]=as.POSIXct(inputData$t[i])
+      index=index+1
+    }
+    else {}
+  }
+  
+  returndata=data.frame(time, water_consumed)
+  return(returndata)
+}
