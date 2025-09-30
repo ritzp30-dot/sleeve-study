@@ -1,3 +1,3 @@
-This work contains the data files of water consumption events of dogs of Experiment 1 and Experiment 2. DailyWC highlights the water consumption of dogs in Experiment 1 and WC_final_l highlights the water consumption associated with preferred scented sleeves and non-scented sleeves of dogs in Experiment 2. In addition, this project also contains a file named "Scale_Logger.ino"-an  ArduinoIDE code used for measuring water consumption events of dogs.
+This work contains the data files of water consumption of dogs of Experiment 1 and Experiment 2. DailyWC highlights the water consumption of dogs in Experiment 1 and WC_final_l highlights the water consumption associated with preferred scented sleeves and non-scented sleeves of dogs in Experiment 2. In addition, this project also contains a file named "Scale_Logger.ino"-an  ArduinoIDE code used for recording water consumption in dogs. This also contains the algorithm which was used to filter and calculate the true water consumption of dogs from raw data files.
 
-This ArduinoIDE code is licensed under Nathaniel Hall.
+This ArduinoIDE code is licensed under Nathaniel Hall
